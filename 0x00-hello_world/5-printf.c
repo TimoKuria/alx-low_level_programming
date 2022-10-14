@@ -1,4 +1,4 @@
-p_vddiqDv6bcrOTvM8biZ6fw3JPgaCEt4e8nRyinclude <stdio.h>
+#include <stdio.h>
 
 /**
   *main - Entry point
