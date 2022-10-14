@@ -5,7 +5,7 @@
   *
   *description: writing
   *
-  *return=1
+  *return:1
   *
   */
 
